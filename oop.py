@@ -8,14 +8,14 @@
 # com2 = computer()
 # com2.config()
 
-class computer:  b 
+# class computer:
+#     pass
+# c1 = computer()
+# print(id(c1))
 
-    pass
-c1 = computer()
-print(id(c1))
+# c3 = computer()
+# print(id(c3))
 
-c3 = computer()
-print(id(c3))
-
-
-
+class Myclass:
+    x = 5
+print(Myclass)
